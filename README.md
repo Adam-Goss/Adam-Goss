@@ -5,18 +5,18 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adam-goss-995398167/)
 
 <br>
+---
+<br>
 
-<!--
-**Adam-Goss/Adam-Goss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy:
+- *Capture the flag* hacking games where one tries to break into a vulnerable piece of software or operating system as I like testing both my problem solving and technical abilities.
+- Creatively solving problems by writing scripts and programs writing.
 
-Here are some ideas to get you started:
+I am currently studying:
+- A MSc in Cyber Security Engineering 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am looking to study:
+- My OSCP
+- and happy to collaborate on any pentration testing projects!
+
+
