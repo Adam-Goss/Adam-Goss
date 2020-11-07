@@ -2,8 +2,6 @@
 
 <br>
 
----
-
 I enjoy:
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/network-wired.svg" />
 *Capture the flag* hacking games as I like testing both my problem solving and technical abilities.
@@ -26,4 +24,3 @@ Collaborate on any pentration testing projects! :v:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/gossy_84)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adam-goss-995398167/)
 
----
