@@ -1,4 +1,4 @@
-## Hi there, I'm Adam
+## Hi there, I'm Adam :wave:
 
 ### You can find me on: 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/gossy_84)
@@ -22,4 +22,4 @@ I am looking to study:
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/calendar-alt.svg" />
 My OSCP
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/users.svg" />
-Collaborate on any pentration testing projects!
+Collaborate on any pentration testing projects! :v:
