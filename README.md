@@ -10,7 +10,7 @@
 
 I enjoy:
 - *Capture the flag* hacking games where one tries to break into a vulnerable piece of software or operating system as I like testing both my problem solving and technical abilities.
-- Creatively solving problems by writing scripts and programs writing.
+- :computer: Creatively solving problems by writing scripts and programs writing.
 
 I am currently studying:
 - A MSc in Cyber Security Engineering 
