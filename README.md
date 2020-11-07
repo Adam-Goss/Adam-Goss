@@ -9,7 +9,7 @@
 ---
 
 I enjoy:
-- *Capture the flag* hacking games where one tries to break into a vulnerable piece of software or operating system as I like testing both my problem solving and technical abilities.
+- [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist] *Capture the flag* hacking games where one tries to break into a vulnerable piece of software or operating system as I like testing both my problem solving and technical abilities.
 - :computer: Creatively solving problems by writing scripts and programs writing.
 
 I am currently studying:
