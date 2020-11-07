@@ -9,10 +9,8 @@
 ---
 
 I enjoy:
-
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/network-wired.svg" />
-*Capture the flag* hacking games where one tries to break into a vulnerable piece of software or operating system as I like testing both my problem solving and technical abilities.
-
+*Capture the flag* hacking games as I like testing both my problem solving and technical abilities.
 ><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 Creatively solving problems by writing scripts and programs writing
 
@@ -21,6 +19,7 @@ I am currently studying:
 A MSc in Cyber Security Engineering 
 
 I am looking to study:
-- My OSCP
-- and happy to collaborate on any pentration testing projects! <img align="right" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/calendar-alt.svg" />
+My OSCP
+><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/users.svg" />
+Collaborate on any pentration testing projects!
