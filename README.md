@@ -8,15 +8,16 @@
 
 ---
 
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 I enjoy:
-- [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist] *Capture the flag* hacking games where one tries to break into a vulnerable piece of software or operating system as I like testing both my problem solving and technical abilities.
-- :computer: Creatively solving problems by writing scripts and programs writing.
+-  *Capture the flag* hacking games where one tries to break into a vulnerable piece of software or operating system as I like testing both my problem solving and technical abilities.
+- Creatively solving problems by writing scripts and programs writing.
 
 I am currently studying:
-- A MSc in Cyber Security Engineering 
+- :computer: A MSc in Cyber Security Engineering 
 
 I am looking to study:
 - My OSCP
-- and happy to collaborate on any pentration testing projects!
+- and happy to collaborate on any pentration testing projects! [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 
