@@ -1,4 +1,4 @@
-## <span style="font-family:Papyrus>Hi there, I'm Adam</span> :wave:
+## <span style="font-family:Papyrus">Hi there, I'm Adam</span> :wave:
 
 ### You can find me on: 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/gossy_84)
