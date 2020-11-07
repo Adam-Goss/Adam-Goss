@@ -1,9 +1,5 @@
 ## <span style="font-family:Papyrus">Hi there, I'm Adam</span> :wave:
 
-### You can find me on: 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/gossy_84)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adam-goss-995398167/)
-
 <br>
 
 ---
@@ -23,3 +19,11 @@ I am looking to study:
 My OSCP
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/users.svg" />
 Collaborate on any pentration testing projects! :v:
+
+---
+
+### You can find me on: 
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/gossy_84)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adam-goss-995398167/)
+
+---
