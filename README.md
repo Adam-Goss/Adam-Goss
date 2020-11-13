@@ -15,7 +15,8 @@ A MSc in Cyber Security Engineering
 I am looking to study:
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/calendar-alt.svg" />
 My OSCP
-><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/users.svg" disabled />
+
+<img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/users.svg" disabled />
 Collaborate on any pentration testing projects! :v:
 
 <br>
