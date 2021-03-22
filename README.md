@@ -14,8 +14,10 @@ A MSc in Cyber Security Engineering
 
 I am looking to study:
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/calendar-alt.svg" />
+My eJPT
+><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/calendar-alt.svg" />
+17
 My OSCP
-
 <br>
 
 <img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/users.svg" disabled />
