@@ -27,6 +27,3 @@ OSCP
 ### You can find me on: 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/gossy_84)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/AdamGoss1/)
-<br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/gossinator84.png" alt="TryHackMe">
-
