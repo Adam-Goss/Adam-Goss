@@ -8,11 +8,14 @@ I enjoy:
 ><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 Creatively solving problems by writing scripts and programs writing
 
+I have:
+><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+BA Computer Systems
+
+
 I am currently studying:
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/graduation-cap.svg" />
 A MSc in Cyber Security Engineering 
-
-I currently studying for:
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/calendar-alt.svg" />
 eJPT
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/calendar-alt.svg" />
