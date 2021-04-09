@@ -19,7 +19,7 @@ eJPT
 I am currently studying for:
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/graduation-cap.svg" />
 An MSc in Cyber Security Engineering 
-> <pre></pre>Check out some of my projects:
+> Check out some of my projects:
 > <ul>
 >   <li><a href="https://github.com/Adam-Goss/CTF_writeups">CTF_Writeups</a> repository for all the ones I have completed.</li>
 >   <li><a href="https://github.com/Adam-Goss/CTF_writeups">CTF_Writeups</a> repository for all the ones I have completed.</li>
