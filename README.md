@@ -10,18 +10,18 @@ Creatively solving problems by writing scripts and programs writing. Check out m
 
 I have:
 ><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/scroll.svg" />
-BA Computer Systems
+A BA Computer Systems
 ><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/certificate.svg" />
 eJPT
 
 
-I am currently studying:
+I am currently studying for:
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/graduation-cap.svg" />
-A MSc in Cyber Security Engineering 
+An MSc in Cyber Security Engineering 
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/calendar-alt.svg" />
-eCPPTv2
+My eCPPTv2 certification
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/calendar-alt.svg" />
-OSCP
+My OSCP certification
 
 <br>
 
