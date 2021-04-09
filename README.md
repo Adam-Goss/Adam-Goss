@@ -10,7 +10,7 @@ Creatively solving problems by writing scripts and programs writing. Check out m
 
 I have:
 ><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/scroll.svg" />
-A BA Computer Systems
+BA Computer Systems
 ><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/certificate.svg" />
 eJPT
 
