@@ -8,12 +8,15 @@ I enjoy:
 ><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 Creatively solving problems by writing scripts and programs writing. Check out my <a href="https://github.com/Adam-Goss/https://github.com/Adam-Goss/pentest_scripts"> Penetration Testing Scripts, Programs, & Projects</a> repository for a bunch of tools I have created and projects I am working on.
 
+<br>
+
 I have:
 ><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/scroll.svg" />
 A BA Computer Systems
 ><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/certificate.svg" />
 eJPT
 
+<br>
 
 I am currently studying for:
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/graduation-cap.svg" />
