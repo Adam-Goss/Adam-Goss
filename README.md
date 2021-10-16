@@ -9,13 +9,13 @@ I enjoy:
 Creatively solving problems by writing scripts and programs. Check out my <a href="https://github.com/Adam-Goss/https://github.com/Adam-Goss/pentest_scripts"> Penetration Testing Scripts, Programs, & Projects</a> repository for a bunch of tools I have created and projects I am working on.
 
 I have:
-><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/scroll.svg" />
+><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/graduation-cap.svg" />
 BA Computer Systems
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/graduation-cap.svg" />
 An MSc in Cyber Security Engineering 
-><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/certificate.svg" />
+><img align="left" alt="Terminal" width="26px" src=https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/scroll.svg" />
 eJPT
-><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/calendar-alt.svg" />
+><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/scroll.svg" />
 My eCPPTv2 certification
 
 
