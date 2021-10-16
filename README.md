@@ -18,12 +18,13 @@ eJPT
 ><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/scroll.svg" />
 My eCPPTv2 certification
 
-
 <br>
 
 I am currently studying for:
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/calendar-alt.svg" />
 My OSCP certification
+
+<br>
 
 > Check out some of my projects:
 > <ul>
