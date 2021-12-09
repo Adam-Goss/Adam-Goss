@@ -6,7 +6,7 @@ I enjoy:
 ><img align="left" alt="Terminal" width="26px" height="40px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/network-wired.svg" />
 *Capture the flag* hacking games which test both my problem solving and technical skills. Check out my <a href="https://github.com/Adam-Goss/CTF_writeups">CTF_Writeups</a> repository for all the ones I have completed.
 ><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-Creatively solving problems by writing scripts and programs. Check out my <a href="https://github.com/Adam-Goss/https://github.com/Adam-Goss/pentest_scripts"> Penetration Testing Scripts, Programs, & Projects</a> repository for a bunch of tools I have created and projects I am working on.
+Creatively solving problems by writing scripts and programs. Check out my <a href="https://github.com/Adam-Goss/pentest_scripts"> Penetration Testing Scripts, Programs, & Projects</a> repository for a bunch of tools I have created and projects I am working on.
 
 I have:
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/graduation-cap.svg" />
