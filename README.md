@@ -27,7 +27,7 @@ My OSEP certification
 
 > Check out some of my projects:
 > <ul>
->   <li><a href="https://github.com/Adam-Goss/machine_setup_automation">Machine Setup Automation</a> - a project that uses Ansible to configure machines for a specific use case. Specifically, for pentesting, malware analysis, and development.
+>   <li><a href="https://github.com/Adam-Goss/machine_setup_automation">Machine Setup Automation</a> - a project that uses Ansible to configure machines for a specific use case. Specifically, for pentesting, malware analysis, development, and container deployment.
 >   <li><a href="https://github.com/Adam-Goss/network_defense">Network Defense</a> - a project that models a secured corporate network using firewalls, IDS, VLANs, switches, a management network, and VPNs. See "<a href="https://github.com/Adam-Goss/network_defense/blob/main/sand.pdf">sand.pdf</a>" for details and the writeup.</li>
 >   <li><a href="https://github.com/Adam-Goss/crypto">Crypto</a> - a project that configures both an IPSec and Wireguard VPN to model how a company can secure remote worker access to internal resources through the public Internet. See "<a href="https://github.com/Adam-Goss/crypto/blob/main/crypto-pma.pdf">crypto-pma.pdf</a>" for more details and the writeup.</li>
 > </ul>
