@@ -14,7 +14,7 @@ BA Computer Systems
 ><img align="left" alt="Terminal" width="26px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/solid/graduation-cap.svg" />
 An MSc in Cyber Security Engineering 
 ><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/scroll.svg" />
-eJPT | eCPPTv2 | OSCP
+eJPT | eCPPTv2 | OSCP | CRTO
 
 <br>
 
